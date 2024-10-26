@@ -29,6 +29,10 @@
     display: flex;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
 .flex-row {
     flex-direction: row;
 }
@@ -123,6 +127,10 @@
         display: flex;
     }
 
+    .flex-sm-wrap {
+        flex-wrap: wrap;
+    }
+
     .flex-sm-row {
         flex-direction: row;
     }
@@ -188,6 +196,9 @@
         display: flex;
     }
 
+    .flex-md-wrap {
+        flex-wrap: wrap;
+    }
 
     .flex-md-row {
         flex-direction: row;
@@ -252,6 +263,10 @@
 
     .d-lg-flex {
         display: flex;
+    }
+
+    .flex-lg-wrap {
+        flex-wrap: wrap;
     }
 
     .flex-lg-row {
